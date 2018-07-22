@@ -1,2 +1,2 @@
-# BinarySearchTreeExample
+# BinarySearchExample
 Written in Java
